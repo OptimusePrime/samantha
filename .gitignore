@@ -1,0 +1,9 @@
+cuda/
+melo/
+melotts.eng-info/
+models/
+venv/
+tortoise-tss/
+transcript.txt
+*.wav
+node_modules/
